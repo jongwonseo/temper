@@ -3,11 +3,6 @@ temper
 
 
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-main
-
-checking completing
-
-
+aaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
